@@ -1,5 +1,5 @@
 {
-  "name": "map-tool",
+  "name": "@sherrin/map-tool",
   "version": "1.0.0",
   "description": "qq map vue load",
   "main": "lib/Tmap.js",
